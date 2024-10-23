@@ -1,8 +1,8 @@
 ---
 ---
 
-# CATLS-LehighDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
+# CATLS Lab
+This is the lab website for CATLS.
 
 
 {% include section.html %}

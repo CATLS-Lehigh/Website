@@ -1,5 +1,5 @@
 
-# CATLS-LehighDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# CATLS-Lehigh DESCRIPTION
 
 Visit **[catls-lehigh.github.io/Website](https://catls-lehigh.github.io/Website)** 🚀
 
